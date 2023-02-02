@@ -4,10 +4,6 @@
 
 > Free, no-nonsense, super-fast blogging.
 
-## Demo
-
-For a current & working demo of this theme, please check out https://kazuoiimura.com/ 🎯.
-
 ## Screenshots
 
 ⬜️ [Light][light-screenshot]
